@@ -131,6 +131,21 @@ spring.jpa.hibernate.ddl-auto=update
 ```
 
 ---
+### 5. ## Demo Credentials
+
+Use the following credentials to test the application:
+
+**Admin User**
+
+* Email: [admin@test.com](mailto:admin@test.com)
+* Password: admin123
+
+**Normal User**
+
+* Email: [user@test.com](mailto:user@test.com)
+* Password: user123
+
+> Note: These are sample users created for testing purposes only.
 
 ## Docker Setup
 
